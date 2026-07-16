@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+<title id="title">Sabiq Islam profile placeholder</title>
+<desc id="desc">Abstract blue and purple portrait placeholder with the initials SI.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#20164f"/>
+    <stop offset=".48" stop-color="#38277d"/>
+    <stop offset="1" stop-color="#164f68"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".7" cy=".15" r=".8">
+    <stop offset="0" stop-color="#8fb9ff" stop-opacity=".75"/>
+    <stop offset="1" stop-color="#8fb9ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="600" height="600" rx="110" fill="url(#bg)"/>
+<rect width="600" height="600" rx="110" fill="url(#glow)"/>
+<g fill="none" stroke="#cfc3ff" stroke-opacity=".22">
+  <circle cx="300" cy="300" r="205"/>
+  <circle cx="300" cy="300" r="145"/>
+  <path d="M70 300h460M300 70v460"/>
+</g>
+<circle cx="300" cy="300" r="98" fill="#71e7d1"/>
+<text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="700" fill="#100a2d">SI</text>
+<g fill="#fff" opacity=".72">
+  <circle cx="100" cy="110" r="3"/>
+  <circle cx="495" cy="150" r="4"/>
+  <circle cx="460" cy="470" r="3"/>
+  <circle cx="125" cy="455" r="4"/>
+</g>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sabiq101.github.io/sitemap.xml
